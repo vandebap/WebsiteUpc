@@ -21,9 +21,9 @@ CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 
 #Here we set up the token used for the security verification, username and password 
-SECRET_KEY = "18c66466c8f38462cb78d4224172b294e79872a81eb978bf46bed7594d30fb1f"
-ADMIN_USERNAME = "AdministratorUPC"
-ADMIN_PASSWORD = "eVk8JYN!"
+SECRET_KEY = 
+ADMIN_USERNAME = 
+ADMIN_PASSWORD = 
 
 
 #Upload folder and default template 
